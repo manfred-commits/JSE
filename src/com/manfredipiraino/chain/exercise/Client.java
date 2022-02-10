@@ -15,7 +15,7 @@ public class Client {
 		myLieutenant.mySetNextChainElement(myColonel);
 		myColonel.mySetNextChainElement(myGeneral);
 		
-		myCaptain.hasSalaryAtLeastAt(5000.1);
+		myCaptain.hasSalaryAtLeastAt(4000);
 	}
 
 }

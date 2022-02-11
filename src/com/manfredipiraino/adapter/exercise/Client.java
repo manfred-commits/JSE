@@ -14,8 +14,6 @@ public class Client {
 		myAdapter.setMyUserInfo(myUserInfo);
 		System.out.println("Adapter for UserInfo with get nomeCompleto: "+myAdapter.getNomeComplete());
 		
-		myAdapter.setMyUserData(myUserData);
-		System.out.println("Adapter for UserData with get nome/cognome: "+myAdapter.getNome()+" "+myAdapter.getCognome());
 	}
 
 }
